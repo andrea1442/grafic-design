@@ -1,0 +1,92 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 13 Jul 2024 19:45:09 at https://html.waituk.com/roxine/index.html https://html.waituk.com/roxine/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "it, en, *" https://html.waituk.com/roxine/index.html https://html.waituk.com/roxine/index.html -O1 "C:\Users\Andrea\Desktop\Siti\Nuova attività" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:45:49	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/jquery/jquery-2.1.4.min.js: No such file or directory
+19:45:49	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/popper/popper.min.js: No such file or directory
+19:45:50	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/bootstrap/js/bootstrap.min.js: No such file or directory
+19:45:51	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/stellar/jquery.stellar.min.js: No such file or directory
+19:45:51	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/isotope/javascripts/isotope.pkgd.min.js: No such file or directory
+19:45:53	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/waypoint/waypoints.min.js: No such file or directory
+19:45:53	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/counter-up/jquery.counterup.min.js: No such file or directory
+19:45:54	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/image-stretcher-master/image-stretcher.js: No such file or directory
+19:45:55	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/wow/wow.min.js: No such file or directory
+19:45:56	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/bootstrap-datepicker/js/bootstrap-datepicker.min.js: No such file or directory
+19:45:56	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/bootstrap-slider-master/src/js/bootstrap-slider.js: No such file or directory
+19:45:57	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/bootstrap-select/dist/js/bootstrap-select.min.js: No such file or directory
+19:45:58	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/js/mega-menu.js: No such file or directory
+19:45:58	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/retina/retina.min.js: No such file or directory
+19:46:00	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/rev-slider/revolution/js/jquery.themepunch.tools.min.js: No such file or directory
+19:46:00	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/rev-slider/revolution/js/extensions/revolution.extension.actions.min.js: No such file or directory
+19:46:03	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/rev-slider/revolution-addons/snow/revolution.addon.snow.min.js: No such file or directory
+19:46:03	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/css/fonts/icomoon/icomoon.css (from https://html.waituk.com/roxine/index.html)
+19:46:03	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/font-awesome/css/font-awesome.css (from https://html.waituk.com/roxine/index.html)
+19:46:03	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/owl-carousel/dist/assets/owl.carousel.min.css (from https://html.waituk.com/roxine/index.html)
+19:46:03	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/animate/animate.css (from https://html.waituk.com/roxine/index.html)
+19:46:03	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/rateyo/jquery.rateyo.css (from https://html.waituk.com/roxine/index.html)
+19:46:03	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/bootstrap-datepicker/css/bootstrap-datepicker.css (from https://html.waituk.com/roxine/index.html)
+19:46:03	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/fancyBox/source/jquery.fancybox.css (from https://html.waituk.com/roxine/index.html)
+19:46:03	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/fancyBox/source/helpers/jquery.fancybox-thumbs.css (from https://html.waituk.com/roxine/index.html)
+19:46:03	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/rev-slider/revolution/css/settings.css (from https://html.waituk.com/roxine/index.html)
+19:46:16	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/img/logo.svg (from https://html.waituk.com/roxine/index.html)
+19:47:29	Error: 	"Not Found" (404) at link https://html.waituk.com/img/car.png (from https://html.waituk.com/roxine/css/main.css)
+19:47:29	Error: 	"Not Found" (404) at link https://html.waituk.com/img/nfl.png (from https://html.waituk.com/roxine/css/main.css)
+19:47:29	Error: 	"Not Found" (404) at link https://html.waituk.com/img/nba.png (from https://html.waituk.com/roxine/css/main.css)
+19:47:29	Error: 	"Not Found" (404) at link https://html.waituk.com/img/mlb.png (from https://html.waituk.com/roxine/css/main.css)
+19:47:29	Error: 	"Not Found" (404) at link https://html.waituk.com/img/flags.png (from https://html.waituk.com/roxine/css/main.css)
+19:47:29	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/img/Dest_B23516_39.jpg (from https://html.waituk.com/roxine/css/main.css)
+19:47:29	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/registration.html (from https://html.waituk.com/roxine/features-simple-mega.html)
+19:47:29	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/css/vendor-overwrites/noneed.css (from https://html.waituk.com/roxine/premium-slides.html)
+19:47:29	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/HappyHolidays.html (from https://html.waituk.com/roxine/premium-slides.html)
+19:47:51	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/rev-slider/revolution-addons/typewriter/js/revolution.addon.typewriter.min.js: No such file or directory
+19:47:52	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/rev-slider/revolution-addons/countdown/revolution.addon.countdown.min.js: No such file or directory
+19:48:06	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/duotone.html (from https://html.waituk.com/roxine/premium-slides.html)
+19:48:17	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/assets.pinterest.com/js/pinit.js: No such file or directory
+19:48:17	Warning: 	file not stored in cache due to bogus state (broken size, expected 290 got 0): assets.pinterest.com/js/pinit.js
+19:49:00	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/rev-slider/revolution-addons/whiteboard/js/revolution.addon.whiteboard.min.js: No such file or directory
+19:50:38	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/services.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:50:38	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/blog.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:50:38	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/media-agency.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:50:38	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/architect.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:50:38	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/portfolio-left-sidebar-6-col.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:50:38	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/portfolio-right-sidebar-6-col.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:50:38	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/portfolio-both-sidebar-2-col.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:50:38	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/portfolio-both-sidebar-3-col.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:50:38	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/portfolio-both-sidebar-4-col.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:50:38	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/blog-default.html (from https://html.waituk.com/roxine/features-left-overlay.html)
+19:50:38	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/css/fonts/roxine-font-icon/roxine-font.css (from https://html.waituk.com/roxine/font-icons.html)
+19:50:38	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/rev-slider/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/NiceAndClean.html)
+19:50:38	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/rev-slider/revolution/fonts/font-awesome/css/font-awesome.css (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/NiceAndClean.html)
+19:50:38	Error: 	"Error when decompressing" (-1) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/css/noneed.css (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/NiceAndClean.html)
+19:50:39	Error: 	Unable to save file C:/Users/Andrea/Desktop/Siti/Nuova attività/html.waituk.com/roxine/vendors/rev-slider/revolution/fonts/font-awesome/fonts/fontawesome-webfont5b62.eot: No such file or directory
+19:50:40	Error: 	"Error when decompressing" (-1) at link https://connect.facebook.net/en_US/sdk.js (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/website-builder.html)
+19:50:40	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 290 expected)) at link assets.pinterest.com/js/pinit.js (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/website-builder.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/ic_data_usage_24px.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/innovation.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/ic_expand_more_36px.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/creative-frontpage.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/character07.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/head-idea.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/head-check.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/user05.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/pencil.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/gauge.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/monitor.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/file05.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/arrow-right.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/preson-megaphone.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/chart02.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/assets/images/award5.svg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/interactive-whiteboard.html)
+19:50:40	Error: 	"Not Found" (404) at link img.youtube.com/vi/iNJdPyoqt8U/maxresdefault.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/premium-4kvideos.html)
+19:50:40	Error: 	"Not Found" (404) at link img.youtube.com/vi/gU10ALRQ0ww/maxresdefault.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/premium-4kvideos.html)
+19:50:40	Error: 	"Error when decompressing" (-1) at link https://www.sliderrevolution.com/templates/wp-content/uploads/revslider/express-web-product-dark/webproduct_darkbg3.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/carousel-gallery.html)
+19:50:40	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/1&title=0&byline=0&portrait=0&api=1" (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/carousel-media.html)
+19:50:40	Warning: 	Retry after error -5 (Unable to get server's address: Host sconosciuto. ) at link server.local/revslider/wp-content/uploads/uploads/revslider/anothercarousel/webproduct_darkbg3.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/carousel-showcase.html)
+19:50:43	Error: 	"Not Found" (404) at link https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/{{link}} (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/gallery-light.html)
+19:50:45	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link server.local/revslider/wp-content/uploads/uploads/revslider/anothercarousel/webproduct_darkbg3.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/carousel-showcase.html)
+19:50:48	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link server.local/revslider/wp-content/uploads/uploads/revslider/anothercarousel/webproduct_darkbg3.jpg (from https://html.waituk.com/roxine/vendors/rev-slider/examples/- Original Previews -/carousel-showcase.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 39 seconds : 913 links scanned, 854 files written (61079746 bytes overall), 854 files updated [50189435 bytes received at 148051 bytes/sec], 13129782 bytes transferred using HTTP compression in 252 files, ratio 14%, 10.1 requests per connection
+(77 errors, 4 warnings, 0 messages)
